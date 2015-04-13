@@ -1,0 +1,9 @@
+{
+    "name": "cnjack/qrcode",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "files": ["qrcode.class.php"]
+    },
+}
