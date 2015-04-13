@@ -5,5 +5,5 @@
     },
     "autoload": {
         "files": ["qrcode.class.php"]
-    },
+    }
 }
